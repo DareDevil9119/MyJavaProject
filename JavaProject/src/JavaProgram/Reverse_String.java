@@ -12,6 +12,5 @@ public class Reverse_String {
 		r2=r2+r.charAt(i);
 		}
 		System.out.println(r2);
-		stringBuffer()
+		
 	}
-@Test
